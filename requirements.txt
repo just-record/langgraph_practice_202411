@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain_anthropic
+langchain-huggingface
+langchain-openai
+langchainhub
+langsmith
+langgraph
+python-dotenv
+grandalf
+rich
+# faiss-cpu
+# langchain_chroma
+# nltk
+# wikipedia
