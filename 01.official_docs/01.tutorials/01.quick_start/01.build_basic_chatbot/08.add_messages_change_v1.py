@@ -1,7 +1,7 @@
 ### add_messages 대신 다른 함수 사용 가능한가? ###
 
 from rich import print as rprint
-from langgraph.graph.message import add_messages
+# from langgraph.graph.message import add_messages
 
 from typing import Annotated
 from typing_extensions import TypedDict
