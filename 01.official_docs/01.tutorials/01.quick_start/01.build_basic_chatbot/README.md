@@ -1,10 +1,11 @@
 # Lang graph - Tutorials - Quick Start
 
-## Part1: Build Basic Chatbot
+## Part1: Build a Basic Chatbot
 
 <https://langchain-ai.github.io/langgraph/tutorials/introduction/#part-1-build-a-basic-chatbot>
 
-`build_basic_chatbot.py`: 공식문서의 전체 소스 코드
+- `build_basic_chatbot.py`: 공식문서의 전체 소스 코드
+- `build_basic_chatbot_2.py`: 공식문서의 전체 소스 코드 - chatbot에 로깅 추가
 
 - `01.bbc_invoke.py`: graph를 invoke하여 결과 보기
 - `02.bbc_invoke_result.py`: graph를 invoke하여 결과를 받아서 출력하기
