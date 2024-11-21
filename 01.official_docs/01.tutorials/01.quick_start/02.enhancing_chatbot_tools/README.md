@@ -12,3 +12,4 @@
 - `02.ect_tavily.py`: TavilySearchResults 사용 하여 검색하기 기능 테스트
 - `03.ect_toolnode.py`: ToolNode 이것 저것 해보기
 - `04.ect_add_conditional_edges.py`: add_conditional_edges 이것 저것 해보기
+- `05.ect_tools_condition.py`: tools_condition 기능 테스트
