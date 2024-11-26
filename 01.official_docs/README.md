@@ -2,6 +2,5 @@
 
 <https://langchain-ai.github.io/langgraph/#overview>
 
-## Tutorial
-
-`01.tutorials` 디렉토리
+- Home: `01.home` 디렉토리
+- Tutorial: `02.tutorials` 디렉토리
