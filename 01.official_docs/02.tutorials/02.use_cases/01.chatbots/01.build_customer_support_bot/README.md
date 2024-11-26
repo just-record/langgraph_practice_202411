@@ -9,3 +9,4 @@
 - `utilities.py`: 유틸리티 모음
 - `p1_zero_shot_agent.py`: Part1 Zero-shot agent
 - `01.p1_example_conversation.py`: Part1 Zero-shot agent 샘플 대화
+  - 공식문서의 결과 보기: <https://smith.langchain.com/public/f9e77b80-80ec-4837-98a8-254415cb49a1/r/26146720-d3f9-44b6-9bb9-9158cde61f9d>
