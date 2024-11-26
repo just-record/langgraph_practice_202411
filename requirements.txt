@@ -11,6 +11,8 @@ langgraph
 python-dotenv
 grandalf
 rich
+tavily-python
+pandas
 # faiss-cpu
 # langchain_chroma
 # nltk

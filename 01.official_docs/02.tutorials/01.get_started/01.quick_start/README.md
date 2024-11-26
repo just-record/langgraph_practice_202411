@@ -1,4 +1,4 @@
-# Quick Start
+# Tutorials - Get started - LangGraph Quick Start
 
 ## Part 1: Build a Basic Chatbot
 
