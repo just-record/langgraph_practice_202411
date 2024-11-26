@@ -27,7 +27,8 @@ tool_node = ToolNode(tools)
 model = ChatOpenAI(model="gpt-4o-mini", temperature=0).bind_tools(tools)
 
 # Define the function that determines whether to continue or not
-def should_continue(state: MessagesState) -> Literal["tools", END]:
+# def should_continue(state: MessagesState) -> Literal["tools", END]:
+def should_continue(state: MessagesState):
     # print(f"=== should_continue(NODE?) -> state ===: {state['messages'][-1].content}")
     print(f"=== should_continue(NODE?) -> state['messages'][-1].tool_calls ===: {state['messages'][-1].tool_calls}")
     messages = state['messages']
