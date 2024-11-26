@@ -2,6 +2,6 @@
 
 <https://langchain-ai.github.io/langgraph/tutorials/>
 
-## Quick Start
+## Get Started
 
-`01.quick_start` 디렉토리
+- `01.get_started` 디렉토리
