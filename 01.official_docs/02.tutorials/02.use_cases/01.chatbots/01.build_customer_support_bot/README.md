@@ -31,3 +31,12 @@
   - 공식문서의 결과 보기: <https://smith.langchain.com/public/a0d64d8b-1714-4cfe-a239-e170ca45e81a/r>
 
 ![part3 - graph](part_3_graph.png)
+
+✔️ **Part4 Specialized Workflows**
+
+결과가 좋지 않은 듯. 시간을 두고 분석 필요
+
+- `p4_specialized_workflow.py`: Part4 Specialized Workflows
+- `04.p4_specialized_workflow.py`: Part4 Specialized Workflows 샘플 대화
+
+![part4 - graph](part_4_graph.png)
