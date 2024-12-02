@@ -34,4 +34,6 @@ LANGCHAIN_PROJECT=LangGraph_home
 
 `home.py`: 공식문서의 전체 소스 코드
 
+![diagram](diagram.png)
+
 `01.home_invoke.py`: 공식문서의 전체 소스 코드의 graph를 invoke하여 결과 보기
